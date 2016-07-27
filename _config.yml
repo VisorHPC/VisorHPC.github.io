@@ -1,0 +1,15 @@
+# Site specific settings
+title: "VisorHPC Workshop Website"
+name: "VisorHPC"
+keywords: "virtualization, HPC"
+baseurl: ""
+url: ""
+description: ""
+
+# Site general settings
+lang: "en"
+ssl: false # It will redirect to https
+
+# Build settings
+markdown: kramdown
+permalink: /:categories/:title/
