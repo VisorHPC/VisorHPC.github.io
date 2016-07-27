@@ -3,7 +3,7 @@ title: "VisorHPC Workshop Website"
 name: "VisorHPC"
 keywords: "virtualization, HPC"
 baseurl: ""
-url: ""
+url: "http://VisorHPC.github.io"
 description: ""
 
 # Site general settings
