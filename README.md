@@ -1,8 +1,8 @@
 # VisorHPC Workshop Website (VisorHPC.github.io)
 
 This is the home of the VisorHPC website [VisorHPC.github.io](https://visorhpc.github.io).
-
 The website's layout is derivied from 'darcli', which is a Jekyll theme (see [gjuniioor.github.io/darcli](https://gjuniioor.github.io/darcli)]).
+This theme is under [GPL3](assets/LICENSE).
 
 # VisorHPC: Workshop on Virtualization Solutions for High-Performance Computing
 
@@ -22,6 +22,3 @@ Although virtualization solutions are quite common in server farms and cloud com
 * all papers to be peer-reviewed
 * accepted papers will be published online
 
-# License
-
-This theme is under [GPL3](assets/LICENSE).
