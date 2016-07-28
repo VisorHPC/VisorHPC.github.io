@@ -12,13 +12,15 @@ Although virtualization solutions are quite common in server farms and cloud com
 
 ## Topics of Interest:
 
-* employment of virtual machines and/or software containers in HPC
-* checkpointing and/or migration solutions for resiliency and malleability in HPC
-* solutions for network virtualization regarding HPC interconnects
+* All subjects concerning virtualization solutions in HPC, especially:
+* Employment of virtual machines and/or software containers in HPC
+* Checkpointing and/or migration solutions for resiliency and malleability in HPC
+* Solutions for network virtualization regarding HPC interconnects
+
 
 ## Call for Papers:
 
-* open call for papers
-* all papers to be peer-reviewed
-* accepted papers will be published online
+* Open call for papers
+* All papers to be peer-reviewed
+* Accepted papers will be published online
 
