@@ -6,11 +6,11 @@ html {
 
 body {
 	background-color: rgba(0,0,0,0.97);
-	color: rgba(9,163,217,1);
+	color: rgba(55,228,255,1);
 	padding: 5px;
 	margin: auto;
 	width: 80%;
-	border: 3px solid rgba(9,163,217,0.7);
+	border: 5px solid rgba(9,163,217,0.7);
 	font-family: "Open Sans";
 }
 
@@ -19,16 +19,24 @@ body h1 {
 }
 
 body h2 {
-        color: rgba(255,255,255,1);
+	color: rgba(255,255,255,1);
 }
+
+body h3 {
+	color: rgba(35,230,255,1);
+}
+
 
 header, nav, main, footer {
 	margin: 15px;
-	border-bottom: 1px solid rgba(9,163,217,0.5);
 }
 
 header, nav {
 	text-align: center;
+}
+
+footer {
+	color: rgba(10,165,220,1);
 }
 
 .ascii {
@@ -61,7 +69,7 @@ nav ul li a:hover {
 
 a {
 	text-decoration: none;
-	color: #2A6EA4;
+	color: rgba(9,163,217,1);
 	font-weight: bold;
 }
 

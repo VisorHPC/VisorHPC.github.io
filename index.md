@@ -15,21 +15,32 @@ Prominent examples for such added values stemming from virtualization and foster
 ## Topics
 {:id="topics"}
 
-* All subjects concerning virtualization solutions in HPC, especially:
+___All___ __subjects concerning virtualization solutions in HPC__, especially (but not limited to):
+
 * Employment of virtual machines and/or software containers in HPC
 * Checkpointing and/or migration solutions for resiliency and malleability in HPC
 * Solutions for network virtualization regarding HPC interconnects
+* Parallel I/O and HPC storage solutions taking advantage from virtualization
 
-
-## Call for Papers:
+## Call for Papers
 {:id="cfp"}
 
 * Open call for papers
-* All papers to be peer-reviewed
+* All papers will be peer-reviewed
 * Accepted papers will be published online
+* Proceedings will be referenceable through ISBN plus DOI
+* Three types of papers are welcome for submission:
+  * Full (regular) research papers of 6-8 pages (will be peer-reviewed by at least 3 reviewers)
+  * Short papers of up to 4 pages (may include content not yet mature enough for a full paper)
+  * Industrial white papers of up to 4 pages (may present products from a technical point of view)
 
+## Submission Guidelines
 
-## Preliminary Deadlines:
+* Papers should be formatted according to the [IEEE manuscript templates](http://www.ieee.org/conferences_events/conferences/publishing/templates.html) for conferences
+* Please stick to the page limits of 4 and 8 pages, respectively
+* Submissions should be done via the EasyChair submission server 
+
+## Preliminary Deadlines
 {:id="deadlines"}
 
 * Paper submission deadline:		October 31, 2016
@@ -37,8 +48,8 @@ Prominent examples for such added values stemming from virtualization and foster
 * Camera ready due:			December 15, 2016
 
 
-## Organizers and Contact:
+## Organizers and Contact
 {:id="contact"}
 
-* Carsten Clauss, ParTec Cluster Competence Center GmbH, Germany
-* Stefan Lankes, RWTH Aachen University, Germany
+* Carsten Clauss, ParTec Cluster Competence Center GmbH, Germany, Email: <clauss@par-tec.com>
+* Stefan Lankes, RWTH Aachen University, Germany, Email: <slankes@eonerc.rwth-aachen.de>
