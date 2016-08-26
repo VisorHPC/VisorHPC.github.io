@@ -38,7 +38,7 @@ ___All___ __subjects concerning virtualization solutions in HPC__, especially (b
 
 * Papers should be formatted according to the [IEEE manuscript templates](http://www.ieee.org/conferences_events/conferences/publishing/templates.html) for conferences
 * Please stick to the page limits of 4 and 8 pages, respectively
-* Submissions should be done via the EasyChair submission server 
+* Submissions should be done via the [EasyChair submission server](https://easychair.org/conferences/?conf=visorhpc2017)
 
 ## Preliminary Deadlines
 {:id="deadlines"}
