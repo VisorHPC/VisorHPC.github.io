@@ -21,7 +21,7 @@ ___All___ __subjects concerning virtualization solutions in HPC__, especially (b
 * Checkpointing and/or migration solutions for resiliency and malleability in HPC
 * Solutions for network virtualization regarding HPC interconnects
 * Parallel I/O and HPC storage solutions taking advantage from virtualization
-* Hypervisor and other virtualization solutions tailored for HPC systems
+* Hypervisors and other virtualization solutions tailored for HPC systems
 * Virtualization solutions for dealing with heterogeneity in HPC environments
 * Extensions to resource managers and job schedulers with respect to virtualization
 * Adaptation of cloud-computing technologies for HPC environments 
