@@ -21,6 +21,11 @@ ___All___ __subjects concerning virtualization solutions in HPC__, especially (b
 * Checkpointing and/or migration solutions for resiliency and malleability in HPC
 * Solutions for network virtualization regarding HPC interconnects
 * Parallel I/O and HPC storage solutions taking advantage from virtualization
+* Hypervisor and other virtualization solutions tailored for HPC systems
+* Virtualization solutions for dealing with heterogeneity in HPC environments
+* Extensions to resource managers and job schedulers with respect to virtualization
+* Adaptation of cloud-computing technologies for HPC environments 
+
 
 ## Call for Papers
 {:id="cfp"}
@@ -34,11 +39,13 @@ ___All___ __subjects concerning virtualization solutions in HPC__, especially (b
   * Short papers of up to 4 pages (may include content not yet mature enough for a full paper)
   * Industrial white papers of up to 4 pages (may present products from a technical point of view)
 
+
 ## Submission Guidelines
 
 * Papers should be formatted according to the [IEEE manuscript templates](http://www.ieee.org/conferences_events/conferences/publishing/templates.html) for conferences
 * Please stick to the page limits of 4 and 8 pages, respectively
 * Submissions should be done via the [EasyChair submission server](https://easychair.org/conferences/?conf=visorhpc2017)
+
 
 ## Preliminary Deadlines
 {:id="deadlines"}
@@ -46,6 +53,11 @@ ___All___ __subjects concerning virtualization solutions in HPC__, especially (b
 * Paper submission deadline:		October 31, 2016
 * Notification of acceptance:		November 15, 2016
 * Camera ready due:			December 15, 2016
+
+
+## Program Committee
+{:id="committee"}
+To be announced.
 
 
 ## Organizers and Contact

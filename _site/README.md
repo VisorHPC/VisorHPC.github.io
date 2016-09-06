@@ -3,6 +3,7 @@
 This is the home of the VisorHPC website [VisorHPC.github.io](https://visorhpc.github.io).
 The website's layout is derivied from 'darcli', which is a Jekyll theme (see [gjuniioor.github.io/darcli](https://gjuniioor.github.io/darcli)).
 This theme is under [GPL3](assets/LICENSE).
+The website logo is used under [Fotolia Standard License](https://www.fotolia.com/Info/HowToBuy/SizeAndLicenses)
 
 # VisorHPC: Workshop on Virtualization Solutions for High-Performance Computing
 
