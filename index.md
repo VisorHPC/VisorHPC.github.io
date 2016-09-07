@@ -17,14 +17,17 @@ Prominent examples for such added values stemming from virtualization and foster
 
 ___All___ __subjects concerning virtualization solutions in HPC__, especially (but not limited to):
 
-* Employment of virtual machines and/or software containers in HPC
+* Employment and management of virtual machines and/or software containers in HPC
 * Checkpointing and/or migration solutions for resiliency and malleability in HPC
-* Solutions for network virtualization regarding HPC interconnects
+* Solutions for network and I/O virtualization regarding HPC interconnects
 * Parallel I/O and HPC storage solutions taking advantage from virtualization
 * Hypervisors and other virtualization solutions tailored for HPC systems
 * Virtualization solutions for dealing with heterogeneity in HPC environments
 * Extensions to resource managers and job schedulers with respect to virtualization
-* Adaptation of cloud-computing technologies for HPC environments 
+* Adaptation of cloud-computing technologies to HPC environments
+* Operating system support for virtualization in HPC systems
+* Performance and power analysis of virtualized HPC systems
+* Debugging and/or profiling in virtual environments
 
 
 ## Call for Papers
