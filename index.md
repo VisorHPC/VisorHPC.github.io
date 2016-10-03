@@ -4,7 +4,7 @@ layout: default
 
 ## News
 {:id="news"}
- * It’s our great pleasure to announce that Professor DK Panda of the Ohio State University volunteered to deliver an invited keynote talk.
+ * It’s our great pleasure to announce that [Professor DK Panda](http://web.cse.ohio-state.edu/~panda/) of the Ohio State University volunteered to deliver the invited keynote talk.
 
 ## About
 {:id="about"}
