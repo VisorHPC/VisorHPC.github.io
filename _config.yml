@@ -13,3 +13,5 @@ ssl: false # It will redirect to https
 # Build settings
 markdown: kramdown
 permalink: /:categories/:title/
+encoding: UTF-8
+
