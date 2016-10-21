@@ -4,7 +4,10 @@ layout: default
 
 ## News
 {:id="news"}
- * It’s our great pleasure to announce that [Professor DK Panda](http://web.cse.ohio-state.edu/~panda/) of the Ohio State University volunteered to deliver the invited keynote talk.
+
+ * Oct 03, 2016: It’s our great pleasure to announce that [Professor DK Panda](http://web.cse.ohio-state.edu/~panda/) of the Ohio State University volunteered to deliver the invited keynote talk.
+
+ * Oct 21, 2016: The <a href="/#committee">program committee</a> list is online.
 
 ## About
 {:id="about"}
@@ -64,7 +67,14 @@ ___All___ __subjects concerning virtualization solutions in HPC__, especially (b
 
 ## Program Committee
 {:id="committee"}
-To be announced.
+* Frank Bellosa, Karlsruhe Institute of Technology (KIT)
+* Carsten Clauss, ParTec Cluster Competence Center GmbH
+* Stefan Lankes, RWTH Aachen University
+* Julián Morillo Pozo, Barcelona Supercomputing Center (BSC)
+* Lena Oden, Argonne National Laboratory (ANL)
+* Pablo Reble, Intel Corporation
+* Josh Simons, VMware, Inc.
+
 
 
 ## Organizers and Contact
