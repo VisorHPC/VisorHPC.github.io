@@ -74,7 +74,7 @@ ___All___ __subjects concerning virtualization solutions in HPC__, especially (b
 * Lena Oden, Argonne National Laboratory (ANL)
 * Pablo Reble, Intel Corporation
 * Josh Simons, VMware, Inc.
-
+* Josef Weidendorfer, Technical University of Munich (TUM)
 
 
 ## Organizers and Contact
