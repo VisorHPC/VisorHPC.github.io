@@ -5,6 +5,7 @@ layout: default
 ## News
 {:id="news"}
 
+ * Nov 30, 2016: The <a href="/#deadlines">author notification</a> has been postponed by one week to __December 07__ (Sorry for this inconvenience, but please stay tuned!)
  * Oct 31, 2016: The paper submission <a href="/#deadlines">deadline has been extended</a> by two weeks until __November 15__.
  * Oct 21, 2016: The <a href="/#committee">program committee</a> list is online.
  * Oct 03, 2016: It’s our great pleasure to announce that [Professor DK Panda](http://web.cse.ohio-state.edu/~panda/) of the Ohio State University volunteered to deliver the invited keynote talk.
@@ -62,8 +63,8 @@ ___All___ __subjects concerning virtualization solutions in HPC__, especially (b
 {:id="deadlines"}
 
 * Paper submission deadline:		~~October 31~~ November 15, 2016
-* Notification of acceptance:		November 30, 2016
-* Camera ready due:			December 15, 2016
+* Notification of acceptance:		~~November 30~~ December 07, 2016
+* Camera ready due:			~~December 15~~ January 15, 2016
 
 
 ## Program Committee
