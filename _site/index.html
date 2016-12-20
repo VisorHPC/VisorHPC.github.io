@@ -62,13 +62,20 @@
 			<h2 id="news">News</h2>
 
 <ul>
+  <li>Dec 20, 2016: We are looking forward to the <a href="/#keynote">invited keynote talk by Prof. DK Panda</a>:</li>
+</ul>
+<center>
+        <h3>HPC Meets Cloud: Opportunities and Challenges in Designing High-Performance MPI and Big Data Libraries on Virtualized InfiniBand Clusters</h3>
+ </center>
+<ul>
+  <li>Dec 20, 2016: <a href="https://www.hipeac.net/2017/stockholm">Call for participation!</a> The early bird registration rate for HiPEAC 17 ends on <strong>December 25</strong>! Register right <a href="https://www.hipeac.net/2017/stockholm/register/">here</a>!</li>
   <li>Nov 30, 2016: The <a href="/#deadlines">author notification</a> has been postponed by one week to <strong>December 07</strong> (Sorry for this inconvenience, but please stay tuned!)</li>
   <li>Oct 31, 2016: The paper submission <a href="/#deadlines">deadline has been extended</a> by two weeks until <strong>November 15</strong>.</li>
   <li>Oct 21, 2016: The <a href="/#committee">program committee</a> list is online.</li>
   <li>Oct 03, 2016: It’s our great pleasure to announce that <a href="http://web.cse.ohio-state.edu/~panda/">Professor DK Panda</a> of the Ohio State University volunteered to deliver the invited keynote talk.</li>
 </ul>
 
-<h2 id="about">About</h2>
+<h2 id="about">About VisorHPC</h2>
 
 <p>Although virtualization solutions are quite common in server farms and cloud computing environments, their usage is in contrast by far not prevalent in the domain of high-performance computing (HPC).
 This is because, at least up to now, virtualization solutions like the employment of virtual machines (VM) have proven to be too heavyweight to be acceptable in scalable HPC systems.
@@ -76,7 +83,31 @@ However, future exascale systems, equipped with a much higher degree of computin
 Moreover, recent advancements, e.g. concerning container-based virtualization or regarding hardware abstraction of high-performance interconnects, currently propel the idea of introducing more virtualization solutions even in the domain of HPC.
 Prominent examples for such added values stemming from virtualization and fostering resiliency, usability and malleability also in HPC systems are the possibility of live-migration and transparent checkpoint/restart, as well as the option to provide each user with an individual environment in terms of customized VM images.</p>
 
-<h2 id="topics">Topics</h2>
+<h2 id="keynote">Keynote Abstract</h2>
+
+<p>Significant growth has been witnessed during the last few years in HPC clusters with multi-/many-core processors, accelerators, and high-performance interconnects (such as InfiniBand, Omni-Path, iWARP, and RoCE).
+To alleviate the cost burden, sharing HPC cluster resources to end users through virtualization for both scientific computing and Big Data processing is becoming more and more attractive.
+The recently introduced Single Root I/O Virtualization (SR-IOV) technique for InfiniBand and High Speed Ethernet provides native I/O virtualization capabilities and is changing the landscape of HPC virtualization.
+However, SR-IOV lacks locality-aware communication support, which leads to performance overheads for inter-VM communication even within the same host.
+In this talk, we will first present our recent studies done on MVAPICH2-Virt MPI library over virtualized SR-IOV-enabled InfiniBand clusters, which can fully take advantage of SR-IOV and IVShmem to deliver near-native performance for HPC applications under Standalone, OpenStack, and Containers environments.
+In the second part, we will present a framework for extending SLURM with virtualization-oriented capabilities, such as dynamic virtual machine creation with SR-IOV and IVShmem resources, to effectively run MPI jobs over virtualized InfiniBand clusters.
+Next, we will demonstrate how high-performance solutions can be designed to run Big Data applications (like Hadoop) in HPC cloud environments. Finally, we will share our experiences of running these designs on the <a href="https://www.chameleoncloud.org">Chameleon Cloud</a> testbed.</p>
+
+<p><strong>The keynote will be delivered by Dhabaleswar K. (DK) Panda of The Ohio State University.</strong></p>
+
+<p>DK Panda is a Professor and University Distinguished Scholar of Computer Science and Engineering at the Ohio State University.
+He has published over 400 papers in the area of high-end computing and networking.
+The <a href="http://mvapich.cse.ohio-state.edu">MVAPICH2</a> (High Performance MPI and PGAS over InfiniBand, Omni-Path, iWARP and RoCE) libraries, designed and developed by his research group, are currently being used by more than 2,700 organizations worldwide (in 83 countries).
+More than 405,000 downloads of this software have taken place from the project’s site.
+As of Nov’16, this software is empowering several InfiniBand clusters (including the 1st, 13th, 17th, and 40th ranked ones) in the TOP500 list.
+The RDMA packages for Apache Spark, Apache Hadoop, Apache HBase, and Memcached together with OSU HiBD benchmarks from his group are also <a href="http://hibd.cse.ohio-state.edu">publicly available</a>.
+These libraries are currently being used by more than 200 organizations in 29 countries.
+More than 19,000 downloads of these libraries have taken place.
+He is an IEEE Fellow.</p>
+
+<p>More details about Prof. Panda are available at <a href="http://www.cse.ohio-state.edu/~panda">http://www.cse.ohio-state.edu/~panda</a>.</p>
+
+<h2 id="topics">Workshop Topics</h2>
 
 <p><strong><em>All</em></strong> <strong>subjects concerning virtualization solutions in HPC</strong>, especially (but not limited to):</p>
 
