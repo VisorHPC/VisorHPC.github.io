@@ -5,6 +5,8 @@ layout: default
 ## News
 {:id="news"}
 
+ * Jan 09, 2017: The (tentative) <a href="/#program">workshop program</a> is online.
+ * Jan 02, 2017: This year, we've decided to merge the VisorHPC workshop with the HiPEAC's workshop on <a href="http://wwwi10.lrr.in.tum.de/~trinitic/COSH2017/">Co-Scheduling of HPC Applications</a> in order to present a comprehensive program.
  * Dec 20, 2016: We are looking forward to the <a href="/#keynote">invited keynote talk by Prof. DK Panda</a>:
  <center>
         <h3>HPC Meets Cloud: Opportunities and Challenges in Designing High-Performance MPI and Big Data Libraries on Virtualized InfiniBand Clusters</h3>
@@ -49,6 +51,39 @@ More than 19,000 downloads of these libraries have taken place.
 He is an IEEE Fellow.
 
 More details about Prof. Panda are available at [http://www.cse.ohio-state.edu/~panda](http://www.cse.ohio-state.edu/~panda).
+
+## Program
+{:id="program"}
+
+* 10:00 - 10:10 Welcome and Introduction
+
+* 10:10 - 11:10 Keynote Talk by Prof. DK Panda:<br>
+  __HPC Meets Cloud: Opportunities and Challenges in Designing High-Performance MPI and Big Data Libraries on Virtualized InfiniBand Clusters__
+
+* Coffee Break
+
+* 11:40 - 12:00 S. Fan, F. Chen, H. Rauchfuss, N. Har'el, U. Schilling and N. Struckmann:<br>
+  __Towards a Lightweight RDMA Para-Virtualization for HPC__
+
+* 12:00 - 12:30 T. Küstner, C. Trinitis, J. Weidendorfer, A. Blaszczyk, P.Kaufmann and M. Johansson:<br>
+  __On the Applicability of Virtualization in an Industrial HPC Environment__
+
+* 12:30 - 13:00 S. Pickartz, J. Breitbart and S. Lankes:<br>
+  __Co-scheduling on Upcoming Many-Core Architectures__
+
+* Lunch Break
+
+* 14:15 - 15:00 Invited Talk by Intel (tentative)
+
+* 15:00 - 15:30 A. de Blanche and T. Lundqvist:<br>
+  __Disallowing Same-program Co-schedules to Improve Efficiency in Quad-core Servers__
+
+* Coffee Break
+
+* 16:00 - 16:30 I. Papadakis, K. Nikas, V. Karakostas, G. Goumas and N. Koziris:<br>
+  __Improving QoS and Utilisation in modern multi-core servers with Dynamic Cache Partitioning__
+
+* 16:30 - 16:45 HermitCore Demo by Dr. Stefan Lankes
 
 ## Workshop Topics
 {:id="topics"}
