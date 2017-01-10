@@ -65,7 +65,7 @@ More details about Prof. Panda are available at [http://www.cse.ohio-state.edu/~
 * 11:40 - 12:00 S. Fan, F. Chen, H. Rauchfuss, N. Har'el, U. Schilling and N. Struckmann:<br>
   __Towards a Lightweight RDMA Para-Virtualization for HPC__
 
-* 12:00 - 12:30 T. Küstner, C. Trinitis, J. Weidendorfer, A. Blaszczyk, P.Kaufmann and M. Johansson:<br>
+* 12:00 - 12:30 T. Küstner, C. Trinitis, J. Weidendorfer, A. Blaszczyk, P. Kaufmann and M. Johansson:<br>
   __On the Applicability of Virtualization in an Industrial HPC Environment__
 
 * 12:30 - 13:00 S. Pickartz, J. Breitbart and S. Lankes:<br>
@@ -83,7 +83,10 @@ More details about Prof. Panda are available at [http://www.cse.ohio-state.edu/~
 * 16:00 - 16:30 I. Papadakis, K. Nikas, V. Karakostas, G. Goumas and N. Koziris:<br>
   __Improving QoS and Utilisation in modern multi-core servers with Dynamic Cache Partitioning__
 
-* 16:30 - 16:45 HermitCore Demo by Dr. Stefan Lankes
+* 16:30 - 16:45 HermitCore Live Demo by Dr. Stefan Lankes:<br>
+  __HermitCore: A Library Operating System for Cloud and High-Performance Computing__
+
+* 16:45 - 17:00 Wrap-up and Workshop Closing
 
 ## Workshop Topics
 {:id="topics"}
