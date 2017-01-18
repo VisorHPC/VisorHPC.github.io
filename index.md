@@ -73,7 +73,8 @@ More details about Prof. Panda are available at [http://www.cse.ohio-state.edu/~
 
 * Lunch Break
 
-* 14:15 - 15:00 Invited Talk by Intel (tentative)
+* 14:15 - 15:00 Invited Talk by Dr. Mikko Byckling from Intel Finland:<br>
+  __An Update on Intel Technologies for High Performance Computing__
 
 * 15:00 - 15:30 A. de Blanche and T. Lundqvist:<br>
   __Disallowing Same-program Co-schedules to Improve Efficiency in Quad-core Servers__
