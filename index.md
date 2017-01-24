@@ -59,7 +59,7 @@ More details about Prof. Panda are available at [http://www.cse.ohio-state.edu/~
 * 10:00 - 10:10 Welcome and Introduction
 
 * 10:10 - 11:10 Keynote Talk by Prof. DK Panda:<br>
-  __HPC Meets Cloud: Opportunities and Challenges in Designing High-Performance MPI and Big Data Libraries on Virtualized InfiniBand Clusters__
+ [ __HPC Meets Cloud: Opportunities and Challenges in Designing High-Performance MPI and Big Data Libraries on Virtualized InfiniBand Clusters__](slides/pk_keynote_visorhpc17.pdf)
 
 * Coffee Break
 
@@ -70,7 +70,7 @@ More details about Prof. Panda are available at [http://www.cse.ohio-state.edu/~
   __On the Applicability of Virtualization in an Industrial HPC Environment__
 
 * 12:30 - 13:00 S. Pickartz, J. Breitbart and S. Lankes:<br>
-  __Co-scheduling on Upcoming Many-Core Architectures__
+  [__Co-scheduling on Upcoming Many-Core Architectures__](slides/sl_cosch17.pdf)
 
 * Lunch Break
 
@@ -86,7 +86,7 @@ More details about Prof. Panda are available at [http://www.cse.ohio-state.edu/~
   __Improving QoS and Utilisation in modern multi-core servers with Dynamic Cache Partitioning__
 
 * 16:30 - 16:45 HermitCore Live Demo by Dr. Stefan Lankes:<br>
-  __HermitCore: A Library Operating System for Cloud and High-Performance Computing__
+  [__HermitCore: A Library Operating System for Cloud and High-Performance Computing__](slides/sl_hermit17.pdf)
 
 * 16:45 - 17:00 Wrap-up and Workshop Closing
 
