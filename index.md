@@ -59,7 +59,7 @@ More details about Prof. Panda are available at [http://www.cse.ohio-state.edu/~
 * 10:00 - 10:10 Welcome and Introduction
 
 * 10:10 - 11:10 Keynote Talk by Prof. DK Panda:<br>
- [ __HPC Meets Cloud: Opportunities and Challenges in Designing High-Performance MPI and Big Data Libraries on Virtualized InfiniBand Clusters__](slides/pk_keynote_visorhpc17.pdf)
+ [ __HPC Meets Cloud: Opportunities and Challenges in Designing High-Performance MPI and Big Data Libraries on Virtualized InfiniBand Clusters__](slides/dk_keynote_visorhpc17.pdf)
 
 * Coffee Break
 
