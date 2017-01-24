@@ -5,6 +5,7 @@ layout: default
 ## News
 {:id="news"}
 
+ * Jan 24, 2017: Pre-Print of <a href="proceedings.pdf">COSH/VisorHPC proceedings</a> is online.
  * Jan 09, 2017: The (tentative) <a href="/#program">workshop program</a> is online.
  * Jan 02, 2017: This year, we've decided to merge the VisorHPC workshop with the HiPEAC's workshop on <a href="http://wwwi10.lrr.in.tum.de/~trinitic/COSH2017/">Co-Scheduling of HPC Applications</a> in order to present a comprehensive program.
  * Dec 20, 2016: We are looking forward to the <a href="/#keynote">invited keynote talk by Prof. DK Panda</a>:
