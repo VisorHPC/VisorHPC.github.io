@@ -67,7 +67,7 @@ More details about Prof. Panda are available at [http://www.cse.ohio-state.edu/~
   __Towards a Lightweight RDMA Para-Virtualization for HPC__
 
 * 12:00 - 12:30 T. Küstner, C. Trinitis, J. Weidendorfer, A. Blaszczyk, P. Kaufmann and M. Johansson:<br>
-  __On the Applicability of Virtualization in an Industrial HPC Environment__
+  [__On the Applicability of Virtualization in an Industrial HPC Environment__](slides/jw_visorhpc17.pdf)
 
 * 12:30 - 13:00 S. Pickartz, J. Breitbart and S. Lankes:<br>
   [__Co-scheduling on Upcoming Many-Core Architectures__](slides/sl_cosch17.pdf)
