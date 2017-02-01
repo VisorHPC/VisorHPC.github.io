@@ -4,7 +4,8 @@ layout: default
 
 ## News
 {:id="news"}
-
+ * Feb 01, 2017: Some of the presented <a href="/#program">slide sets</a> are also online. (Please find the links to PDFs within the program.)
+ * Jan 30, 2017: The <a href="https://mediatum.ub.tum.de/1344297">Proceedings</a> are now officially published via the TUM University Library. (ISBN: 978-3-00-055564-0 / DOI: 10.14459/2017md1344297)
  * Jan 24, 2017: Pre-Print of <a href="proceedings.pdf">COSH/VisorHPC proceedings</a> is online.
  * Jan 09, 2017: The (tentative) <a href="/#program">workshop program</a> is online.
  * Jan 02, 2017: This year, we've decided to merge the VisorHPC workshop with the HiPEAC's workshop on <a href="http://wwwi10.lrr.in.tum.de/~trinitic/COSH2017/">Co-Scheduling of HPC Applications</a> in order to present a comprehensive program.
