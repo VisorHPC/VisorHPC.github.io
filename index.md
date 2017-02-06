@@ -65,7 +65,7 @@ More details about Prof. Panda are available at [http://www.cse.ohio-state.edu/~
 * Coffee Break
 
 * 11:40 - 12:00 S. Fan, F. Chen, H. Rauchfuss, N. Har'el, U. Schilling and N. Struckmann:<br>
-  __Towards a Lightweight RDMA Para-Virtualization for HPC__
+  [__Towards a Lightweight RDMA Para-Virtualization for HPC__](slides/sf_visorhpc17.pdf)
 
 * 12:00 - 12:30 T. Küstner, C. Trinitis, J. Weidendorfer, A. Blaszczyk, P. Kaufmann and M. Johansson:<br>
   [__On the Applicability of Virtualization in an Industrial HPC Environment__](slides/jw_visorhpc17.pdf)
